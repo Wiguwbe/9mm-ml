@@ -1,0 +1,7 @@
+*.o
+play
+learn
+gen_states
+gen_lines
+core.play
+models/*
